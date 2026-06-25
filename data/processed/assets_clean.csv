@@ -1,0 +1,86 @@
+Asset_ID,Device_Name,Device_Type,Manufacturer,Model,Location,Purchase_Date,Warranty_Expiry,Warranty_Status
+AST-1001,Router-1001,Router,Huawei,ASR 1001-X,Block B - Floor 1,2019-02-21,2024-02-21,Expired
+AST-1002,Router-1002,Router,Cisco,ASR 1001-X,Cafeteria,2023-02-17,2026-02-17,Expired
+AST-1003,Router-1003,Router,Cisco,NE40E-X8,NOC,2021-05-14,2024-05-14,Expired
+AST-1004,Router-1004,Router,Cisco,ASR 1001-X,Cafeteria,2020-04-21,2023-04-21,Expired
+AST-1005,Router-1005,Router,Cisco,NE40E-X8,Block B - Floor 1,2022-08-23,2027-08-23,Active
+AST-1006,Router-1006,Router,Juniper,NE40E-X8,Block A - Floor 2,2020-07-23,2023-07-23,Expired
+AST-1007,Router-1007,Router,Huawei,MX204,Block A - Floor 2,2020-11-27,2025-11-27,Expired
+AST-1008,Router-1008,Router,Cisco,MX204,Server Room,2019-07-29,2022-07-29,Expired
+AST-1009,Switch-1009,Switch,Cisco,ProCurve 2920,Block B - Floor 2,2023-10-02,2028-10-02,Active
+AST-1010,Switch-1010,Switch,Cisco,CX 6300,Server Room,2021-07-29,2024-07-29,Expired
+AST-1011,Switch-1011,Switch,Cisco,CX 6300,Block B - Floor 1,2020-08-23,2025-08-23,Expired
+AST-1012,Switch-1012,Switch,Aruba,Catalyst 9300,Block B - Floor 2,2019-04-04,2022-04-04,Expired
+AST-1013,Switch-1013,Switch,Cisco,Catalyst 9300,Server Room,2023-11-10,2026-11-10,Active
+AST-1014,Switch-1014,Switch,HP,ProCurve 2920,Block A - Floor 2,2022-07-25,2027-07-25,Active
+AST-1015,Switch-1015,Switch,HP,ProCurve 2920,Block A - Floor 1,2020-03-05,2025-03-05,Expired
+AST-1016,Switch-1016,Switch,Aruba,CX 6300,Block A - Floor 2,2019-12-17,2022-12-17,Expired
+AST-1017,Switch-1017,Switch,HP,ProCurve 2920,Data Center,2020-07-06,2023-07-06,Expired
+AST-1018,Switch-1018,Switch,Cisco,Catalyst 9300,Data Center,2023-08-11,2026-08-11,Active
+AST-1019,Switch-1019,Switch,HP,ProCurve 2920,Data Center,2019-05-16,2022-05-16,Expired
+AST-1020,Switch-1020,Switch,Cisco,CX 6300,Library,2021-10-19,2026-10-19,Active
+AST-1021,Switch-1021,Switch,Cisco,ProCurve 2920,Cafeteria,2019-10-13,2022-10-13,Expired
+AST-1022,Switch-1022,Switch,Aruba,ProCurve 2920,Server Room,2023-03-10,2028-03-10,Active
+AST-1023,Switch-1023,Switch,HP,Catalyst 9300,Block A - Floor 1,2019-10-11,2024-10-11,Expired
+AST-1024,Switch-1024,Switch,Cisco,Catalyst 9300,Server Room,2019-11-10,2022-11-10,Expired
+AST-1025,Switch-1025,Switch,Aruba,Catalyst 9300,Library,2021-02-27,2026-02-27,Expired
+AST-1026,Switch-1026,Switch,Aruba,ProCurve 2920,Block A - Floor 1,2022-02-07,2025-02-07,Expired
+AST-1027,Switch-1027,Switch,Aruba,CX 6300,Data Center,2023-03-18,2028-03-18,Active
+AST-1028,Switch-1028,Switch,Cisco,ProCurve 2920,Library,2021-06-09,2024-06-09,Expired
+AST-1029,AccessPoint-1029,Access Point,Cisco,UniFi U6 Pro,Cafeteria,2023-11-29,2028-11-29,Active
+AST-1030,AccessPoint-1030,Access Point,Cisco,UniFi U6 Pro,Cafeteria,2019-08-06,2024-08-06,Expired
+AST-1031,AccessPoint-1031,Access Point,Ubiquiti,Aironet 3800,Block A - Floor 2,2019-11-10,2024-11-10,Expired
+AST-1032,AccessPoint-1032,Access Point,Ubiquiti,UniFi U6 Pro,Library,2019-01-02,2024-01-02,Expired
+AST-1033,AccessPoint-1033,Access Point,Cisco,Aironet 3800,Block B - Floor 1,2021-01-13,2026-01-13,Expired
+AST-1034,AccessPoint-1034,Access Point,Cisco,Aironet 3800,Block A - Floor 1,2023-12-04,2026-12-04,Active
+AST-1035,AccessPoint-1035,Access Point,Ubiquiti,AP-515,Cafeteria,2023-07-30,2026-07-30,Active
+AST-1036,AccessPoint-1036,Access Point,Cisco,Aironet 3800,Cafeteria,2022-09-13,2027-09-13,Active
+AST-1037,AccessPoint-1037,Access Point,Cisco,AP-515,Block B - Floor 1,2021-12-16,2026-12-16,Active
+AST-1038,AccessPoint-1038,Access Point,Ubiquiti,UniFi U6 Pro,Block B - Floor 2,2022-11-13,2025-11-13,Expired
+AST-1039,AccessPoint-1039,Access Point,Aruba,UniFi U6 Pro,Library,2022-08-23,2027-08-23,Active
+AST-1040,AccessPoint-1040,Access Point,Ubiquiti,AP-515,Block B - Floor 1,2019-09-05,2022-09-05,Expired
+AST-1041,AccessPoint-1041,Access Point,Cisco,AP-515,Block B - Floor 1,2019-02-13,2022-02-13,Expired
+AST-1042,AccessPoint-1042,Access Point,Cisco,Aironet 3800,Block B - Floor 1,2022-12-20,2025-12-20,Expired
+AST-1043,AccessPoint-1043,Access Point,Cisco,Aironet 3800,Block A - Floor 1,2023-10-27,2028-10-27,Active
+AST-1044,AccessPoint-1044,Access Point,Ubiquiti,Aironet 3800,Block B - Floor 1,2020-07-24,2025-07-24,Expired
+AST-1045,AccessPoint-1045,Access Point,Ubiquiti,Aironet 3800,Block B - Floor 1,2023-01-21,2028-01-21,Active
+AST-1046,AccessPoint-1046,Access Point,Aruba,AP-515,Block A - Floor 1,2020-01-25,2023-01-25,Expired
+AST-1047,AccessPoint-1047,Access Point,Ubiquiti,AP-515,Server Room,2020-12-26,2025-12-26,Expired
+AST-1048,AccessPoint-1048,Access Point,Aruba,UniFi U6 Pro,NOC,2019-04-21,2022-04-21,Expired
+AST-1049,AccessPoint-1049,Access Point,Aruba,UniFi U6 Pro,Block B - Floor 1,2020-11-25,2023-11-25,Expired
+AST-1050,AccessPoint-1050,Access Point,Cisco,Aironet 3800,Block A - Floor 2,2022-01-03,2027-01-03,Active
+AST-1051,AccessPoint-1051,Access Point,Aruba,Aironet 3800,Block B - Floor 1,2020-07-24,2025-07-24,Expired
+AST-1052,AccessPoint-1052,Access Point,Cisco,AP-515,NOC,2023-07-13,2026-07-13,Active
+AST-1053,AccessPoint-1053,Access Point,Ubiquiti,UniFi U6 Pro,Block A - Floor 1,2023-09-09,2026-09-09,Active
+AST-1054,AccessPoint-1054,Access Point,Cisco,Aironet 3800,Library,2021-04-12,2026-04-12,Expired
+AST-1055,AccessPoint-1055,Access Point,Cisco,AP-515,Server Room,2019-05-01,2022-05-01,Expired
+AST-1056,AccessPoint-1056,Access Point,Cisco,AP-515,Block B - Floor 2,2020-06-27,2025-06-27,Expired
+AST-1057,AccessPoint-1057,Access Point,Aruba,UniFi U6 Pro,Block A - Floor 2,2023-02-05,2028-02-05,Active
+AST-1058,AccessPoint-1058,Access Point,Cisco,AP-515,Cafeteria,2020-03-21,2023-03-21,Expired
+AST-1059,AccessPoint-1059,Access Point,Cisco,UniFi U6 Pro,NOC,2020-10-04,2023-10-04,Expired
+AST-1060,AccessPoint-1060,Access Point,Ubiquiti,AP-515,NOC,2021-10-26,2024-10-26,Expired
+AST-1061,AccessPoint-1061,Access Point,Ubiquiti,Aironet 3800,Block A - Floor 1,2023-10-10,2026-10-10,Active
+AST-1062,AccessPoint-1062,Access Point,Ubiquiti,Aironet 3800,Server Room,2022-10-14,2025-10-14,Expired
+AST-1063,AccessPoint-1063,Access Point,Cisco,UniFi U6 Pro,Block A - Floor 1,2020-05-19,2023-05-19,Expired
+AST-1064,AccessPoint-1064,Access Point,Aruba,UniFi U6 Pro,Block B - Floor 2,2022-04-10,2027-04-10,Active
+AST-1065,AccessPoint-1065,Access Point,Cisco,UniFi U6 Pro,Block B - Floor 1,2023-01-06,2028-01-06,Active
+AST-1066,AccessPoint-1066,Access Point,Aruba,AP-515,Library,2019-09-26,2024-09-26,Expired
+AST-1067,AccessPoint-1067,Access Point,Aruba,Aironet 3800,Block A - Floor 1,2019-01-20,2024-01-20,Expired
+AST-1068,AccessPoint-1068,Access Point,Cisco,UniFi U6 Pro,Block A - Floor 2,2020-03-12,2025-03-12,Expired
+AST-1069,Firewall-1069,Firewall,Fortinet,PA-820,Data Center,2023-12-06,2026-12-06,Active
+AST-1070,Firewall-1070,Firewall,Fortinet,PA-820,Cafeteria,2021-06-16,2026-06-16,Active
+AST-1071,Firewall-1071,Firewall,Palo Alto,ASA 5516-X,Block A - Floor 1,2023-08-01,2028-08-01,Active
+AST-1072,Firewall-1072,Firewall,Palo Alto,FortiGate 80F,Cafeteria,2019-08-25,2022-08-25,Expired
+AST-1073,Firewall-1073,Firewall,Palo Alto,FortiGate 80F,Data Center,2020-07-31,2023-07-31,Expired
+AST-1074,Server-1074,Server,Dell,ThinkSystem SR630,Cafeteria,2022-07-22,2027-07-22,Active
+AST-1075,Server-1075,Server,HP,ProLiant DL380,Block A - Floor 1,2023-09-29,2026-09-29,Active
+AST-1076,Server-1076,Server,Lenovo,ProLiant DL380,NOC,2023-08-26,2028-08-26,Active
+AST-1077,Server-1077,Server,Dell,ProLiant DL380,Block B - Floor 2,2023-04-29,2026-04-29,Expired
+AST-1078,Server-1078,Server,Dell,ThinkSystem SR630,Cafeteria,2021-06-23,2026-06-23,Active
+AST-1079,Server-1079,Server,Dell,PowerEdge R750,Cafeteria,2019-06-04,2022-06-04,Expired
+AST-1080,Server-1080,Server,Dell,ProLiant DL380,Server Room,2022-04-07,2025-04-07,Expired
+AST-1081,Server-1081,Server,Dell,PowerEdge R750,NOC,2020-09-23,2025-09-23,Expired
+AST-1082,Server-1082,Server,HP,PowerEdge R750,Block A - Floor 1,2022-10-28,2025-10-28,Expired
+AST-1083,Server-1083,Server,HP,ThinkSystem SR630,Block A - Floor 2,2023-12-16,2028-12-16,Active
+AST-1084,Server-1084,Server,Dell,PowerEdge R750,Server Room,2023-06-27,2026-06-27,Active
+AST-1085,Server-1085,Server,Dell,PowerEdge R750,Server Room,2023-02-17,2028-02-17,Active

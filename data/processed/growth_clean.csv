@@ -1,0 +1,36 @@
+Year,Device_Type,Device_Count
+2020,Router,4
+2021,Router,5
+2022,Router,6
+2023,Router,7
+2024,Router,7
+2025,Router,8
+2026,Router,8
+2020,Switch,8
+2021,Switch,10
+2022,Switch,13
+2023,Switch,16
+2024,Switch,18
+2025,Switch,20
+2026,Switch,20
+2020,Access Point,18
+2021,Access Point,25
+2022,Access Point,34
+2023,Access Point,45
+2024,Access Point,60
+2025,Access Point,78
+2026,Access Point,95
+2020,Firewall,2
+2021,Firewall,2
+2022,Firewall,3
+2023,Firewall,3
+2024,Firewall,4
+2025,Firewall,5
+2026,Firewall,5
+2020,Server,5
+2021,Server,6
+2022,Server,7
+2023,Server,8
+2024,Server,10
+2025,Server,11
+2026,Server,12
