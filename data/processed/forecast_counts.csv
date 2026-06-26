@@ -1,0 +1,16 @@
+Device_Type,Year,Forecasted_Count
+Router,2027,9
+Router,2028,10
+Router,2029,11
+Switch,2027,23
+Switch,2028,27
+Switch,2029,32
+Access Point,2027,125
+Access Point,2028,166
+Access Point,2029,219
+Firewall,2027,6
+Firewall,2028,7
+Firewall,2029,8
+Server,2027,14
+Server,2028,16
+Server,2029,19
