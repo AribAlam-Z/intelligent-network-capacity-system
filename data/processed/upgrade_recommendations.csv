@@ -1,0 +1,18 @@
+Asset_ID,Device_Type,Issue,Current_Value,Recommendation
+AST-1074,Server,High CPU Utilization,76.24%,Upgrade processor or redistribute workload
+AST-1075,Server,High CPU Utilization,75.99%,Upgrade processor or redistribute workload
+AST-1077,Server,High CPU Utilization,80.7%,Upgrade processor or redistribute workload
+AST-1083,Server,High CPU Utilization,78.27%,Upgrade processor or redistribute workload
+AST-1074,Server,High Memory Utilization,89.62%,Upgrade RAM or optimize memory usage
+AST-1075,Server,High Memory Utilization,78.26%,Upgrade RAM or optimize memory usage
+AST-1076,Server,High Memory Utilization,88.88%,Upgrade RAM or optimize memory usage
+AST-1077,Server,High Memory Utilization,79.74%,Upgrade RAM or optimize memory usage
+AST-1078,Server,High Memory Utilization,78.71%,Upgrade RAM or optimize memory usage
+AST-1079,Server,High Memory Utilization,75.5%,Upgrade RAM or optimize memory usage
+AST-1082,Server,High Memory Utilization,79.31%,Upgrade RAM or optimize memory usage
+AST-1085,Server,High Memory Utilization,81.21%,Upgrade RAM or optimize memory usage
+AST-1003,Router,High Bandwidth Utilization,75.9%,Upgrade bandwidth capacity or add new device
+AST-1006,Router,High Bandwidth Utilization,80.65%,Upgrade bandwidth capacity or add new device
+AST-1007,Router,High Bandwidth Utilization,76.21%,Upgrade bandwidth capacity or add new device
+AST-1069,Firewall,High Bandwidth Utilization,77.47%,Upgrade bandwidth capacity or add new device
+AST-1073,Firewall,High Bandwidth Utilization,82.37%,Upgrade bandwidth capacity or add new device
