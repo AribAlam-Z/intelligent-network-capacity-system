@@ -167,7 +167,7 @@ Open `dashboard/network_capacity_dashboard.pbix` in Power BI Desktop.
 
 **Mohammed Arib Alam**  
 Computer Science (Data Analytics) — Asia Pacific University (APU)  
-Network Assistant Intern — APU Network Operations Centre (NOC)  
+Network Intern — APU Network Operations Centre (NOC)  
 
 [![GitHub](https://img.shields.io/badge/GitHub-AribAlam--Z-181717?style=flat&logo=github)](https://github.com/AribAlam-Z)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Arib%20Alam-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/arib-alam)
